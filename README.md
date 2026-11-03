@@ -135,7 +135,7 @@ This case study demonstrates a structured operations-consulting approach:
 ## 8. Project Files and Attribution
 
 - **`E-Pharmacy - A case study .docx.pdf`** — original case-study problem statement and assignment instructions.
-- **`Sagar Assignment (1).pdf`** — proposed solution presentation, including operational levers, rollout plan, KPIs, and modeled financial impact.
+- **`Solution.pdf`** — proposed solution presentation, including operational levers, rollout plan, KPIs, and modeled financial impact.
 
 > **Attribution:** The solution presentation is labeled *“Presented by Sagar, Candidate for Operations Intern (SCM), API Holdings.”* Preserve the original author's attribution when publishing or adapting this material. This repository should not imply that the solution was personally developed or pitched by someone else unless their actual contribution is accurately identified.
 
