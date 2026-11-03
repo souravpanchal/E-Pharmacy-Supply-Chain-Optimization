@@ -6,6 +6,14 @@ A structured operational improvement proposal for an e-pharmacy regional fulfill
 
 > **Project type:** Case study and proposed operational improvement strategy. All improvements, savings, and future-state KPIs are **targets or estimates**, not measured implementation results. The case-study inputs are supplied in the original assignment.
 
+## Project Presentation
+
+📄 **[View My Complete Project Presentation (PDF)](./Sourav_Assignment.pdf)**
+
+**Presented by:** Sourav
+
+This 7-page presentation covers the problem statement, proposed warehouse process improvements, KPI analysis, and 30-60-90 day implementation roadmap.
+
 ## 1. Problem Statement
 
 An e-pharmacy warehouse receives medicines from suppliers, stores inventory, processes customer orders, and dispatches shipments. The operations team wants to improve speed, efficiency, and inventory management.
